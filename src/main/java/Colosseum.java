@@ -7,7 +7,7 @@ import java.util.Scanner;
  * the demands, we have to make our console game even better. We're launching Pokemon 2.0
  * and introducing new features, such as different types of Pokemon with special abilities.
  * The Colosseum class is where all the battles will go down.
- * We will build our Pokemon, let them battle, and see who will be the winner!
+ * We will build our Pokemon, let them battle, and see who will be the winner!!
  *
  * @see <a href="https://cs125.cs.illinois.edu/lab/9/">Lab 9 Description</a>
  */
